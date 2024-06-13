@@ -30,6 +30,9 @@ a{
 p{
     margin: 0;
 }
+title{
+    background-image: url(../img/title.svg);
+}
 
 .header-background{
     width: 100%;
