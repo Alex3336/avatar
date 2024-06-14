@@ -212,8 +212,10 @@ title{
     text-align: center;
     background-color: var(--button-background-color);
     color: var(--button-text-color);
-    margin-top: 42px;
     cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .decoration-list{
     display: flex;
